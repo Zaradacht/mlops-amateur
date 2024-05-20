@@ -9,6 +9,9 @@ notebook = "==7.1.2"
 pandas = "*"
 pyarrow = "*"
 scikit-learn = "*"
+jupyter-nbextensions-configurator = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
