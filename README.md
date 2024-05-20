@@ -1,0 +1,2 @@
+# mlops-amateur
+MLOps Course
